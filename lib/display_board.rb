@@ -2,7 +2,7 @@
 def display_board
   phrase = "   |   |   "
   line = "-----------"
-  puts "A Tic Tac Toe Board"
+  
   puts phrase
   puts line
   puts phrase
